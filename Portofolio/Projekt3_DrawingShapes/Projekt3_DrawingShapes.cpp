@@ -31,11 +31,13 @@ int main()
 		cout << "@";
 		for (int j = 0; j < 20; j++)
 		{
+			/*Squre
 			if (i == x1 && j >= y1 && j <= y2 || i == x2 && j >= y1 && j <= y2
 				|| j == y1 && i >= x1 && i <= x2 || j == y2 && i >= x1 && i <= x2)
 			{
 				cout << "#";
-			}
+			}*/
+			if()
 			else {
 				cout << " ";
 			}
