@@ -1,0 +1,3 @@
+﻿  Project9_ShareOfSavings.cpp
+F:\SCHOOL\GEC\Week2\Project9_ShareOfSavings\Project9_ShareOfSavings.cpp(8,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project9_ShareOfSavings.vcxproj -> F:\SCHOOL\GEC\Week2\Project9_ShareOfSavings\Debug\Project9_ShareOfSavings.exe
