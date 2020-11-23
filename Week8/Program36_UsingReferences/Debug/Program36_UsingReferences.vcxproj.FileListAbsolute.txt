@@ -1,0 +1,2 @@
+F:\SCHOOL\GEC\Week8\Program36_UsingReferences\Debug\Program36_UsingReferences.exe
+F:\SCHOOL\GEC\Week8\Program36_UsingReferences\Debug\Program36_UsingReferences.pdb

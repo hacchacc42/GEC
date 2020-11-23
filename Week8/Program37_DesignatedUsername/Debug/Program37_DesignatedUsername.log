@@ -1,0 +1,3 @@
+﻿  Program37_DesignatedUsername.cpp
+F:\SCHOOL\GEC\Week8\Program37_DesignatedUsername\Program37_DesignatedUsername.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program37_DesignatedUsername.vcxproj -> F:\SCHOOL\GEC\Week8\Program37_DesignatedUsername\Debug\Program37_DesignatedUsername.exe

@@ -1,0 +1,2 @@
+F:\SCHOOL\GEC\Week6\Program27_StringManipulation\Debug\Program27_StringManipulation.exe
+F:\SCHOOL\GEC\Week6\Program27_StringManipulation\Debug\Program27_StringManipulation.pdb

@@ -1,0 +1,2 @@
+F:\SCHOOL\GEC\Week4\Program17_LocalVariablesAndCopies\Debug\Program17_LocalVariablesAndCopies.exe
+F:\SCHOOL\GEC\Week4\Program17_LocalVariablesAndCopies\Debug\Program17_LocalVariablesAndCopies.pdb

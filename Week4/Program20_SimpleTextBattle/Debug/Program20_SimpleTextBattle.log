@@ -1,0 +1,3 @@
+﻿  Program20_SimpleTextBattle.cpp
+F:\SCHOOL\GEC\Week4\Program20_SimpleTextBattle\Program20_SimpleTextBattle.cpp(128): warning C4715: 'PlayState': not all control paths return a value
+  Program20_SimpleTextBattle.vcxproj -> F:\SCHOOL\GEC\Week4\Program20_SimpleTextBattle\Debug\Program20_SimpleTextBattle.exe

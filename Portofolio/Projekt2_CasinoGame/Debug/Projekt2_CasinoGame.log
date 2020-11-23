@@ -1,6 +1,0 @@
-﻿  Projekt2_CasinoGame.cpp
-F:\SCHOOL\GEC\Portofolio\Projekt2_CasinoGame\Projekt2_CasinoGame.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-F:\SCHOOL\GEC\Portofolio\Projekt2_CasinoGame\Projekt2_CasinoGame.cpp(13,6): warning C4101: 'bet': unreferenced local variable
-F:\SCHOOL\GEC\Portofolio\Projekt2_CasinoGame\Projekt2_CasinoGame.cpp(13,10): warning C4101: 'selectedi': unreferenced local variable
-F:\SCHOOL\GEC\Portofolio\Projekt2_CasinoGame\Projekt2_CasinoGame.cpp(14,7): warning C4101: 'selectedc': unreferenced local variable
-  Projekt2_CasinoGame.vcxproj -> F:\SCHOOL\GEC\Portofolio\Projekt2_CasinoGame\Debug\Projekt2_CasinoGame.exe

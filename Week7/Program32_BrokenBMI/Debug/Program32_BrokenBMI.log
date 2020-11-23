@@ -1,0 +1,5 @@
+﻿  Program32_BrokenBMI.cpp
+F:\SCHOOL\GEC\Week7\Program32_BrokenBMI\Program32_BrokenBMI.cpp(29,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SCHOOL\GEC\Week7\Program32_BrokenBMI\Program32_BrokenBMI.cpp(29,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SCHOOL\GEC\Week7\Program32_BrokenBMI\Program32_BrokenBMI.cpp(17,9): warning C4101: 'bmi': unreferenced local variable
+  Program32_BrokenBMI.vcxproj -> F:\SCHOOL\GEC\Week7\Program32_BrokenBMI\Debug\Program32_BrokenBMI.exe
