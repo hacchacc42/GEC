@@ -1,2 +1,4 @@
 C:\Users\PC-Stefan\source\repos\Program29_RPS\Debug\Program29_RPS.exe
 C:\Users\PC-Stefan\source\repos\Program29_RPS\Debug\Program29_RPS.pdb
+F:\SCHOOL\GEC\Week6\Program29_RPS\Debug\Program29_RPS.exe
+F:\SCHOOL\GEC\Week6\Program29_RPS\Debug\Program29_RPS.pdb

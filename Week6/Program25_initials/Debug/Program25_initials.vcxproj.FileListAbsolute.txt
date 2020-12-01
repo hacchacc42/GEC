@@ -1,2 +1,4 @@
 C:\Users\PC-Stefan\source\repos\Program25_initials\Debug\Program25_initials.exe
 C:\Users\PC-Stefan\source\repos\Program25_initials\Debug\Program25_initials.pdb
+F:\SCHOOL\GEC\Week6\Program25_initials\Debug\Program25_initials.exe
+F:\SCHOOL\GEC\Week6\Program25_initials\Debug\Program25_initials.pdb

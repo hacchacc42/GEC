@@ -22,8 +22,9 @@ int main()
 		cin >> guess2;
 		attempts++;
 		Draw2(guess1,guess2);
+		sleep(2000);
 		//Check Results
-		if (boardCards[guess1-1] == boardCards[guess2-1])
+		if (boardCards[guess1-1] == boardCards[guess2-1]&&guess1!=guess2&&cardFound[guess1-1]==false)
 		{
 			score++;
 			cardFound[guess1-1] = true;

@@ -1,3 +1,3 @@
 ﻿  Program29_RPS.cpp
-C:\Users\PC-Stefan\source\repos\Program29_RPS\Program29_RPS.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Program29_RPS.vcxproj -> C:\Users\PC-Stefan\source\repos\Program29_RPS\Debug\Program29_RPS.exe
+F:\SCHOOL\GEC\Week6\Program29_RPS\Program29_RPS.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program29_RPS.vcxproj -> F:\SCHOOL\GEC\Week6\Program29_RPS\Debug\Program29_RPS.exe
