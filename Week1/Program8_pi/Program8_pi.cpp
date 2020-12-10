@@ -8,7 +8,7 @@ int main()
     radius = 25.0f;
     area = pi * radius * radius;
 
-    cout << "The area of a circle with a radius of " << radius << " is " << area << endl;
+    cout << "The area of a circle with radius " << radius << " is " << area << endl;
 
     return 0;
 }

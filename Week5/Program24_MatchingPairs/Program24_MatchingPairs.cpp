@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdlib>
 using namespace std;
 
 char boardCards[10] = { 'A','B','D','E','A','E','C','C','D','B' };
@@ -22,7 +23,7 @@ int main()
 		cin >> guess2;
 		attempts++;
 		Draw2(guess1,guess2);
-		sleep(2000);
+		system("pause");
 		//Check Results
 		if (boardCards[guess1-1] == boardCards[guess2-1]&&guess1!=guess2&&cardFound[guess1-1]==false)
 		{
@@ -55,7 +56,7 @@ void Draw1()
 		}
 		else
 		{
-			cout << "[" << i + 1 << "]";
+			cout << "[X]";
 		}
 		if (i == 4)
 		{
@@ -76,7 +77,7 @@ void Draw2(int guess1,int guess2)
 		}
 		else
 		{
-			cout << "[" << i + 1 << "]";
+			cout << "[X]";
 		}
 		if (i == 4)
 		{

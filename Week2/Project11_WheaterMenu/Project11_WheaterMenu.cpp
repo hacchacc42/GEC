@@ -26,6 +26,4 @@ int main()
 			cout << "What is the meaning of this?" << endl;
 		break;
 	}
-	//Just for Screenshot purpose, I go back to the main() to be able to see all the outputs in one window.
-	main();
 }

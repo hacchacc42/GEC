@@ -1,2 +1,4 @@
 C:\Users\PC-Stefan\source\repos\Program8_pi\Debug\Program8_pi.exe
 C:\Users\PC-Stefan\source\repos\Program8_pi\Debug\Program8_pi.pdb
+F:\SCHOOL\GEC\Week1\Program8_pi\Debug\Program8_pi.exe
+F:\SCHOOL\GEC\Week1\Program8_pi\Debug\Program8_pi.pdb

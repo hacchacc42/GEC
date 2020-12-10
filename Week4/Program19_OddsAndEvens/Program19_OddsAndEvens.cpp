@@ -2,7 +2,7 @@
 using namespace std;
 
 void outputResults(int numofOdd, int oddTotal, int numOfEven, int evenTotal);
-bool oddOrEven(int x);
+bool odd(int x);
 
 int main()
 {
@@ -11,7 +11,7 @@ int main()
 	{
 		cout << "Input a number :";
 		cin >> x;
-		if (oddOrEven(x))
+		if (odd(x))
 		{
 			numOfOdd++;
 			oddTotal += x;
@@ -24,16 +24,9 @@ int main()
 	}
 	outputResults(numOfOdd, oddTotal, numOfEven, evenTotal);
 }
-bool oddOrEven(int x)
+bool odd(int x)
 {
-	if (x % 2 == 0)
-	{
-		return false;
-	}
-	else
-	{
-		return true;
-	}
+	return x % 2 == 0 ? false : true;
 }
 void outputResults(int numofOdd, int oddTotal, int numOfEven, int evenTotal)
 {

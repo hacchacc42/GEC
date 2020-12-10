@@ -1,2 +1,4 @@
 C:\Users\PC-Stefan\source\repos\Program14_10Numbers\Debug\Program14_10Numbers.exe
 C:\Users\PC-Stefan\source\repos\Program14_10Numbers\Debug\Program14_10Numbers.pdb
+F:\SCHOOL\GEC\Week3\Program14_10Numbers\Debug\Program14_10Numbers.exe
+F:\SCHOOL\GEC\Week3\Program14_10Numbers\Debug\Program14_10Numbers.pdb
